@@ -1,3 +1,8 @@
 Crea una carpeta con tu nombre
 Dentro de ella crea un archivo de texto llamado series.txt y recomiendame alguna
 Con 15 o 20 es suficiente :-)
+
+Cuando lo tengas....
+git add
+git commit
+git push
